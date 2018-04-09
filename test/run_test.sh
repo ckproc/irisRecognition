@@ -1,0 +1,1 @@
+./iris data/iris_image/db_list.txt data/iris_image/test_list.txt

@@ -1,0 +1,1 @@
+./trainiris ../../iris-data/traindata

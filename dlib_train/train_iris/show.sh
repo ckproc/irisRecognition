@@ -1,0 +1,1 @@
+./test sp.dat ../../iris-data/testdata/*.jpg
